@@ -120,15 +120,7 @@
     right: 80px;
    }
 
-    .mundi{
-
-        position: absolute;
-        left: 140px;
-        margin-top:-40px;
-        height: 50px;
-        width:50px;
-       
-        }
+    
 
     .cagf1{
 
@@ -232,7 +224,7 @@ font-size: 22px;
 
 
 
-    #cabecalho-celular {
+    .cabecalho-celular {
 
         color: white;
         height: 30px;
@@ -279,40 +271,23 @@ font-size: 40px;
 
 @media screen and (max-width:521px) {
 
-    .c4 {
-
-        position: absolute;
-        left: 20px;
-     
-     }
-    #circulo {
-
-        position: absolute;
-        right: 245px;
-        margin-top: -13px;
-        background: white;
-        border-radius: 50%;
-        width: 50px;
-        height: 50px;
-        border: 3px solid grey;
-
-    }
+ 
+    
 
     .aces {
 
         position: absolute;
         right: 120px;
-        margin-top: 42px;
+        
 
     }
 
     .pessoa {
 
-        width: 42px;
-        height: 35px;
+       
         position: absolute;
         right: 150px;
-        margin-top: 10px;
+        
 
 
     }
@@ -330,26 +305,10 @@ font-size: 40px;
     }
 
 
-    .acessibilidade-cel {
-
-        display: flex;
-        justify-content: center;
-
-    }
-
-    #tres_linhas {
-        display: none;
-    }
-
-    #retangulo {
-        display: none;
-
-    }
-
-    #petrobras {
-        display: none;
-
-    }
+   
+  
+   
+   
 
     body {
 
@@ -358,17 +317,7 @@ font-size: 40px;
     }
 
 
-    .acessibilidade {
-        display: none;
-
-    }
-
-    main {
-
-        height: 300px;
-
-    }
-
+    
 
 
 
@@ -381,14 +330,7 @@ font-size: 40px;
 
     }
 
-    .idioma {
-
-        position: absolute;
-        margin-top: -08px;
-        left: -5px;
-    }
-
-
+    
     #canais {
 
         position: absolute;
@@ -397,44 +339,8 @@ font-size: 40px;
 
     }
 
-    .canais {
+  
 
-        position: absolute;
-        margin-top: -06px;
-        left: -5px;
-    }
-
-
-
-
-    #cabecalho-celular {
-
-        color: white;
-        height: 30px;
-        background-color: #c7bfbf;
-    }
-
-
-    #titulo-celular {
-
-
-        display: flex;
-    }
-
-
-    #rolin {
-
-        display: none;
-
-
-    }
-
-
-    .titulo {
-
-
-        font-size: 30px;
-    }
 
 
 .letra{
@@ -443,47 +349,30 @@ font-style: 40px;
 
 
 }
-    #verde2 {
+    
 
-        margin-top: -35px;
-    }
-
-    .parab {
-        display: none;
-    }
+   
 }
 
 @media screen and (max-width:487px) {
 
 
-    #circulo {
-
-        position: absolute;
-        right: 245px;
-        margin-top: -13px;
-        background: white;
-        border-radius: 50%;
-        width: 50px;
-        height: 50px;
-        border: 3px solid grey;
-
-    }
+  
 
     .aces {
 
         position: absolute;
         right: 130px;
-        margin-top: 42px;
+      
 
     }
 
     .pessoa {
 
-        width: 42px;
-        height: 35px;
+       
         position: absolute;
         right: 160px;
-        margin-top: 10px;
+       
 
 
     }
@@ -501,26 +390,10 @@ font-style: 40px;
     }
 
 
-    .acessibilidade-cel {
+  
+    
 
-        display: flex;
-        justify-content: center;
-
-    }
-
-    #tres_linhas {
-        display: none;
-    }
-
-    #retangulo {
-        display: none;
-
-    }
-
-    #petrobras {
-        display: none;
-
-    }
+   
 
     body {
 
@@ -529,17 +402,7 @@ font-style: 40px;
     }
 
 
-    .acessibilidade {
-        display: none;
-
-    }
-
-    main {
-
-        height: 300px;
-
-    }
-
+    
 
     .acessCel {
         background-color: #b32323;
@@ -561,14 +424,7 @@ font-style: 40px;
 
     }
 
-    .idioma {
-
-        position: absolute;
-        margin-top: -08px;
-        left: -5px;
-    }
-
-
+   
     #canais {
 
         position: absolute;
@@ -577,38 +433,7 @@ font-style: 40px;
 
     }
 
-    .canais {
-
-        position: absolute;
-        margin-top: -06px;
-        left: -5px;
-    }
-
-
-
-
-    #cabecalho-celular {
-
-        color: white;
-        height: 30px;
-        background-color: #c7bfbf;
-    }
-
-
-    #titulo-celular {
-
-
-        display: flex;
-    }
-
-
-    #rolin {
-
-        display: none;
-
-
-    }
-
+   
 
     .titulo {
 
@@ -621,14 +446,12 @@ font-style: 40px;
         margin-top: -180px;
     }
 
-    .parab {
-        display: none;
-    }
+   
 
     .busq {
 
 
-        margin-top: 30px;
+        
         position: absolute;
         left: -8px;
     }
@@ -658,34 +481,21 @@ font-size: 35px;
 
     }
 
-    #circulo {
-
-        position: absolute;
-        right: 245px;
-        margin-top: -13px;
-        background: white;
-        border-radius: 50%;
-        width: 50px;
-        height: 50px;
-        border: 3px solid grey;
-
-    }
-
+  
     .aces {
 
         position: absolute;
         right: 150px;
-        margin-top: 42px;
+        
 
     }
 
     .pessoa {
 
-        width: 42px;
-        height: 35px;
+       
         position: absolute;
         right: 180px;
-        margin-top: 10px;
+     
 
 
     }
@@ -703,26 +513,8 @@ font-size: 35px;
     }
 
 
-    .acessibilidade-cel {
-
-        display: flex;
-        justify-content: center;
-
-    }
-
-    #tres_linhas {
-        display: none;
-    }
-
-    #retangulo {
-        display: none;
-
-    }
-
-    #petrobras {
-        display: none;
-
-    }
+  
+   
 
     body {
 
@@ -731,18 +523,7 @@ font-size: 35px;
     }
 
 
-    .acessibilidade {
-        display: none;
-
-    }
-
-    main {
-
-        height: 300px;
-
-    }
-
-
+    
     .acessCel {
         background-color: #b32323;
         height: 55px;
@@ -763,14 +544,7 @@ font-size: 35px;
 
     }
 
-    .idioma {
-
-        position: absolute;
-        margin-top: -08px;
-        left: -5px;
-    }
-
-
+    
     #canais {
 
         position: absolute;
@@ -779,62 +553,15 @@ font-size: 35px;
 
     }
 
-    .canais {
-
-        position: absolute;
-        margin-top: -06px;
-        left: -5px;
-    }
-
-
-
-
-    #cabecalho-celular {
-
-        color: white;
-        height: 30px;
-        background-color: #c7bfbf;
-    }
-
-
-    #titulo-celular {
-
-
-        display: flex;
-    }
-
-
-    #rolin {
-
-        display: none;
-
-
-    }
-
-
-    .titulo {
-
-
-        font-size: 30px;
-    }
+    
 
     #vector {
 
         margin-top: -190px;
     }
 
-    .parab {
-        display: none;
-    }
-
-    .busq {
-
-
-        margin-top: 30px;
-        position: absolute;
-        left: -8px;
-    }
-
+   
+   
 }
 
 
@@ -846,37 +573,11 @@ font-size: 35px;
         font-size: 34px;
     }
 
-    #circulo {
+  
 
-        position: absolute;
-        right: 245px;
-        margin-top: -13px;
-        background: white;
-        border-radius: 50%;
-        width: 50px;
-        height: 50px;
-        border: 3px solid grey;
+    
 
-    }
-
-    .aces {
-
-        position: absolute;
-        right: 150px;
-        margin-top: 36px;
-
-    }
-
-    .pessoa {
-
-        width: 40px;
-        height: 35px;
-        position: absolute;
-        right: 180px;
-        margin-top: 6px;
-
-
-    }
+ 
 
 
 
@@ -906,26 +607,7 @@ font-size: 35px;
 
     }
 
-    .acessibilidade-cel {
-
-        display: flex;
-        justify-content: center;
-
-    }
-
-    #tres_linhas {
-        display: none;
-    }
-
-    #retangulo {
-        display: none;
-
-    }
-
-    #petrobras {
-        display: none;
-
-    }
+  
 
     body {
 
@@ -934,17 +616,7 @@ font-size: 35px;
     }
 
 
-    .acessibilidade {
-        display: none;
-
-    }
-
-    main {
-
-        height: 300px;
-
-    }
-
+    
     .acessCel {
         background-color: #b32323;
         height: 55px;
@@ -981,13 +653,7 @@ font-size: 35px;
 
     }
 
-    .idioma {
-
-        position: absolute;
-        margin-top: -08px;
-        left: -5px;
-    }
-
+   
 
     #canais {
 
@@ -1006,44 +672,12 @@ font-size: 35px;
 
 
 
-
-    #cabecalho-celular {
-
-        color: white;
-        height: 30px;
-        background-color: #c7bfbf;
-    }
-
-
-    #titulo-celular {
-
-
-        display: flex;
-    }
-
-
-    #rolin {
-
-        display: none;
-
-
-    }
-
-
-    .titulo {
-
-        
-        font-size: 30px;
-    }
-
     #vector {
 
         margin-top: -210px;
     }
 
-    .parab {
-        display: none;
-    }
+   
 
     .busq {
 
@@ -1065,28 +699,17 @@ font-size: 35px;
 
     }
 
-    #linha1 {
-        width: 20px;
-        border: 1px solid #000;
-        margin-top: 16px;
-        position: relative;
-        right: -0.8em;
-    }
-
+  
     #linha2 {
-        margin-top: 6px;
-        width: 20px;
-        border: 1px solid #000;
-        position: relative;
+      
         right: -0.8em;
     }
 
     #linha3 {
-        width: 20px;
-        border: 1px solid #000;
+        
         position: relative;
         right: -0.8em;
-        margin-top: 6px;
+        
     }
 
 
@@ -1151,44 +774,13 @@ font-size: 35px;
 
     }
 
-    .acessibilidade-cel {
-
-        display: flex;
-        justify-content: center;
-
-    }
-
-    #tres_linhas {
-        display: none;
-    }
-
-    #retangulo {
-        display: none;
-
-    }
-
-    #petrobras {
-        display: none;
-
-    }
-
+   
     body {
 
         background-size: contain;
 
     }
 
-
-    .acessibilidade {
-        display: none;
-
-    }
-
-    main {
-
-        height: 300px;
-
-    }
 
     .acessCel {
         background-color: #b32323;
@@ -1210,13 +802,7 @@ font-size: 35px;
 
     }
 
-    .canaisimg {
-        width: 30px;
-        height: 30px;
-
-
-    }
-
+   
     #idioma {
 
 
@@ -1226,13 +812,7 @@ font-size: 35px;
 
     }
 
-    .idioma {
-
-        position: absolute;
-        margin-top: -08px;
-        left: -5px;
-    }
-
+   
 
     #canais {
 
@@ -1242,62 +822,15 @@ font-size: 35px;
 
     }
 
-    .canais {
+    
 
-        position: absolute;
-        margin-top: -9px;
-        left: -5px;
-    }
-
-
-
-
-    #cabecalho-celular {
-
-        color: white;
-        height: 30px;
-        background-color: #c7bfbf;
-    }
-
-
-    #titulo-celular {
-
-
-        display: flex;
-    }
-
-
-    #rolin {
-
-        display: none;
-
-
-    }
-
-
-    .titulo {
-
-
-        font-size: 30px;
-    }
 
     #vector {
 
         margin-top: -240px;
     }
 
-    .parab {
-        display: none;
-    }
-
-    .busq {
-
-
-        position: absolute;
-        left: -6px;
-        margin-top: 24px;
-    }
-
+  
 }
 
 @media screen and (max-width:338px) {
@@ -1310,45 +843,13 @@ font-size: 35px;
 
     }
 
-    #linha1 {
-        width: 20px;
-        border: 1px solid #000;
-        margin-top: 16px;
-        position: relative;
-        right: -0.8em;
-    }
+   
+  
 
-    #linha2 {
-        margin-top: 6px;
-        width: 20px;
-        border: 1px solid #000;
-        position: relative;
-        right: -0.8em;
-    }
-
-    #linha3 {
-        width: 20px;
-        border: 1px solid #000;
-        position: relative;
-        right: -0.8em;
-        margin-top: 6px;
-    }
+   
 
 
-
-    #circulo {
-
-        position: absolute;
-        right: 245px;
-        margin-top: -13px;
-        background: white;
-        border-radius: 50%;
-        width: 47px;
-        height: 47px;
-        border: 3px solid grey;
-
-    }
-
+ 
     .aces {
 
         position: absolute;
@@ -1358,17 +859,7 @@ font-size: 35px;
 
     }
 
-    .pessoa {
-
-        width: 40px;
-        height: 35px;
-        position: absolute;
-        right: 190px;
-        margin-top: 6px;
-
-
-    }
-
+  
 
 
     .icone.lupa {
@@ -1397,26 +888,7 @@ font-size: 35px;
 
     }
 
-    .acessibilidade-cel {
-
-        display: flex;
-        justify-content: center;
-
-    }
-
-    #tres_linhas {
-        display: none;
-    }
-
-    #retangulo {
-        display: none;
-
-    }
-
-    #petrobras {
-        display: none;
-
-    }
+   
 
     body {
 
@@ -1425,17 +897,7 @@ font-size: 35px;
     }
 
 
-    .acessibilidade {
-        display: none;
-
-    }
-
-    main {
-
-        height: 300px;
-
-    }
-
+   
     .acessCel {
         background-color: #b32323;
         height: 55px;
@@ -1456,13 +918,7 @@ font-size: 35px;
 
     }
 
-    .canaisimg {
-        width: 30px;
-        height: 30px;
-
-
-    }
-
+    
     #idioma {
 
 
@@ -1474,9 +930,7 @@ font-size: 35px;
 
     .idioma {
         font-size: 14px;
-        position: absolute;
-        margin-top: -08px;
-        left: -5px;
+      
     }
 
 
@@ -1490,35 +944,10 @@ font-size: 35px;
 
     .canais {
         font-size: 14px;
-        position: absolute;
-        margin-top: -9px;
-        left: -5px;
+      
     }
 
 
-
-
-    #cabecalho-celular {
-
-        color: white;
-        height: 30px;
-        background-color: #c7bfbf;
-    }
-
-
-    #titulo-celular {
-
-
-        display: flex;
-    }
-
-
-    #rolin {
-
-        display: none;
-
-
-    }
 
 
 
@@ -1527,16 +956,11 @@ font-size: 35px;
         margin-top: -245px;
     }
 
-    .parab {
-        display: none;
-    }
+    
 
     .busq {
 
-
-        position: absolute;
-        left: -6px;
-        margin-top: 24px;
+       
         font-size: 14px;
     }
 
