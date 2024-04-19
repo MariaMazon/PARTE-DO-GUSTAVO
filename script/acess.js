@@ -8,25 +8,16 @@ function accessibilidadeSob() {
 
     if (interuptor12) {
         menum.style.height = '100vh';
-
         menum1.style.display = 'block';
-
         menum2.style.display = 'block';
-
         menum3.style.display = 'block';
-
         interuptor12 = false
-
     }
     else { 
         menum.style.height = '0vh';
-
         menum1.style.display = 'none';
-
         menum2.style.display = 'none';
-
         menum3.style.display = 'none';
-
         interuptor12=true
     }
 }
@@ -40,40 +31,21 @@ function accessibilidadeSob12() {
     var menum46 = document.getElementById('mundi');
     var menum57 = document.getElementById('textIdioma2');
 
-    
     if (interuptor11) {
         menum12.style.height = '100vh';
-
         menum13.style.display = 'block';
-
         menum24.style.display = 'block';
-
         menum35.style.display = 'block';
-
         menum46.style.display = 'block';
-
         menum57.style.display = 'block';
-
-     
-
         interuptor11 = false
-
     }
     else { 
         menum12.style.height = '0vh';
-
         menum13.style.display = 'none';
-
         menum24.style.display = 'none';
-
         menum35.style.display = 'none';
-
         menum46.style.display = 'none';
-
-      ;
-
-
-
         interuptor11=true
     }
 }
@@ -94,56 +66,29 @@ function accessibilidadeSob123() {
     
     if (interuptor11) {
         menum12.style.height = '100vh';
-
         menum13.style.display = 'block';
-
         menum24.style.display = 'block';
-
         menum35.style.display = 'block';
-
-       
-
         menum36.style.display = 'block';
-
         menum26.style.display = 'block';
-
         menum16.style.display = 'block';
-
         menum6.style.display = 'block';
-
         menum57.style.display = 'block';
-
         menum79.style.display = 'block';
-
         menum80.style.display = 'block';
-
         interuptor11 = false
-
     }
     else { 
         menum12.style.height = '0vh';
-
         menum13.style.display = 'none';
-
         menum24.style.display = 'none';
-
         menum35.style.display = 'none';
-
-    
-
         menum36.style.display = 'none';
-
         menum26.style.display = 'none';
-
         menum16.style.display = 'none';
-
         menum6.style.display = 'none';
-
         menum79.style.display = 'none';
-
-
         menum80.style.display = 'none';
-
         interuptor11=true
     }
 }
@@ -156,49 +101,20 @@ function accessibilidadeSob2() {
     var menum35 = document.getElementById('lupis1');
     var menum57 = document.getElementById('textPesq');
 
- 
-    
     if (interuptor14) {
         menum12.style.height = '100vh';
-
         menum13.style.display = 'block';
-
         menum24.style.display = 'block';
-
         menum35.style.display = 'block';
-
-       
-
-     
-
         menum57.style.display = 'block';
-
-      
-
- 
-
         interuptor14 = false
-
     }
     else { 
         menum12.style.height = '0vh';
-
         menum13.style.display = 'none';
-
         menum24.style.display = 'none';
-
         menum35.style.display = 'none';
-
-       
-
-     
-
         menum57.style.display = 'none';
-
-      
-
-      
-
         interuptor14=true
     }
 }

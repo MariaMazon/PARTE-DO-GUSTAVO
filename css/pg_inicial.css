@@ -7,36 +7,16 @@
 
 }
 
-body {
+ body {
     font-family: 'Zen Kaku Gothic Antique';
-    margin: 0;
-    padding: 0;
-    font-weight: 1000px;
-    background-image: url("../imagens/fundoInicial.png");
-    background-repeat: no-repeat;
-    background-size: 2000px 950px;
-}
+} 
 
-
-.main-content {
-    display: flex;
-    justify-content: center;
-    margin-top: 258px;
-
-}
-
-
-
-#vector{
-
+#ondulacao_verde{
     width: 100%;
     height: 500px;
     image-resolution: initial;
 }
 
-
-
 header {
-
     height: 500px;
 }

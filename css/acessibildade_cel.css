@@ -1,0 +1,379 @@
+#titulo-celular {
+    margin-top: 0px;
+    display: none;
+}
+
+#ret {
+    display: flex;
+    justify-content: center;
+    background: #faf8f8;
+    width: 550px;
+    height: 70px;
+    position: fixed;
+}
+
+#circulo {
+    position: absolute;
+    right: 245px;
+    margin-top: -13px;
+    background: white;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+    border: 3px solid grey;
+}
+
+.pessoa {
+    width: 42px;
+    height: 35px;
+    position: absolute;
+    right: 130px;
+    margin-top: 10px;
+}
+
+.aces {
+    position: absolute;
+    right: 100px;
+    margin-top: 42px;
+}
+
+.busq {
+    margin-top: 30px;
+}
+
+body {
+    background-size: contain;
+}
+
+.icone.lupa {
+    width: 20px;
+    height: 20px;
+    border: 2px solid black;
+    border-radius: 50%;
+    position: relative;
+    margin-top: 10px;
+    right: -220px;
+}
+
+.icone.lupa:after {
+    position: absolute;
+    width: 15px;
+    height: 2px;
+    background-color: black;
+    display: block;
+    content: "";
+    top: 30%;
+    left: 50%;
+    transform: rotate(45deg);
+    transform-origin: -10px 15px;
+}
+
+#linha1 {
+    width: 20px;
+    border: 1px solid #000;
+    margin-top: 16px;
+    position: relative;
+    right: -0.9em;
+}
+
+#linha2 {
+    margin-top: 6px;
+    width: 20px;
+    border: 1px solid #000;
+    position: relative;
+    right: -0.9em;
+}
+
+#linha3 {
+    width: 20px;
+    border: 1px solid #000;
+    position: relative;
+    right: -0.9em;
+    margin-top: 6px;
+}
+
+@media screen and (max-width:551px) {
+   #lupis1 {
+    position: absolute;
+    right: 80px;
+   }
+    .cagf1{
+    position: absolute;
+    left: 5px;
+    }
+    
+    .letra2{
+    font-size: 22px;
+    }
+
+    .acessibilidade-cel {
+        display: flex;
+        justify-content: center;
+    }
+
+    main {
+        height: 300px;
+    }
+
+    .acessCel {
+        background-color: #b32323;
+        height: 55px;
+        width: 55px;
+        -webkit-transition: width 1s ease-in-out;
+        transition: width 1s ease-in-out;
+    }
+
+    #idioma {
+        position: absolute;
+        left: 140px;
+        margin-top: 10px;
+    }
+
+    .idioma {
+        position: absolute;
+        margin-top: -08px;
+        left: -5px;
+    }
+
+    #canais {
+        position: absolute;
+        left: 40px;
+        margin-top: 10px;
+    }
+
+    .canais {
+        position: absolute;
+        margin-top: -06px;
+        left: -5px;
+    }
+
+    .cabecalho-celular {
+        color: white;
+        height: 30px;
+        background-color: #c7bfbf;
+    }
+
+    #titulo-celular {
+        display: flex;
+    }
+
+    #verde2 {
+        margin-top: -35px;
+    }
+
+    .letra{
+    font-size: 40px;
+    }
+}
+
+@media screen and (max-width:521px) {
+    .aces {
+        right: 120px;
+    }
+
+    .pessoa {
+        right: 150px;
+    }
+
+    .icone.lupa {
+        right: -200px;
+    }
+
+
+    #idioma {
+        left: 160px;
+    }
+
+    #canais {
+        left: 60px;
+    }
+
+    .letra{
+    font-style: 40px;
+    }
+}
+
+@media screen and (max-width:487px) {
+    .aces {
+        right: 130px;
+	}
+
+    .pessoa {
+        right: 160px;
+    }
+
+    .icone.lupa {
+        right: -180px;
+    }
+
+    #canais {
+        left: 80px;
+    }
+
+    #ondulacao_verde {
+        margin-top: -180px;
+    }
+
+    .busq {
+        position: absolute;
+        left: -8px;
+    }
+    .letra{
+    font-size: 35px;
+    }
+}
+
+@media screen and (max-width:417px) {
+    .icone.lupa:after {
+        top: 10%;
+    }
+    .aces {
+        right: 150px;
+    }
+
+    .pessoa {
+        right: 180px;
+    }
+
+    .icone.lupa {
+        width: 15px;
+        height: 15px;
+        right: -160px;
+    }
+
+    #idioma {
+        left: 180px;
+    }
+
+    #canais {
+        left: 110px;
+    }
+
+    #ondulacao_verde {
+        margin-top: -190px;
+    }
+}
+
+@media screen and (max-width:393px) {
+    .letra{
+        font-size: 34px;
+    }
+    .icone.lupa {
+        width: 15px;
+        height: 15px;
+        border: 2px solid black;
+        border-radius: 50%;
+        position: relative;
+        margin-top: 10px;
+        right: -150px;
+    }
+   
+    .idiomaimg {
+        width: 30px;
+        height: 30px;
+    }
+    .canaisimg {
+        width: 30px;
+        height: 30px;
+    }
+
+    #idioma {
+        left: 200px;
+    }
+    #canais {
+        left: 130px;
+    }
+    .canais {
+        margin-top: -9px;
+    }
+    #ondulacao_verde {
+        margin-top: -210px;
+    }
+    .busq {
+        left: -6px;
+        margin-top: 24px;
+    }
+}
+
+@media screen and (max-width:365px) { 
+    #linha2 { 
+        right: -0.8em;
+    }
+    #linha3 {
+        right: -0.8em;
+    }
+    #circulo {
+        width: 47px;
+        height: 47px;
+    }
+
+    .aces {
+        right: 160px;
+        margin-top: 36px;
+    }
+
+    .pessoa {
+        width: 40px;
+        right: 190px;
+        margin-top: 6px;
+    }
+    .icone.lupa {
+        width: 15px;
+        height: 15px;
+        border: 2px solid black;
+        border-radius: 50%;
+        position: relative;
+        margin-top: 10px;
+        right: -135px;
+    }
+
+    .idiomaimg {
+        width: 30px;
+        height: 30px;
+    }
+    #idioma {
+        left: 210px;
+    }
+    #canais {
+        left: 150px;
+    }
+    #ondulacao_verde {
+        margin-top: -240px;
+    }
+}
+
+@media screen and (max-width:338px) {
+    .aces {
+        right: 170px;
+        margin-top: 36px;
+        font-size: 14px;
+    }
+    .icone.lupa {
+        width: 15px;
+        height: 15px;
+        border: 2px solid black;
+        border-radius: 50%;
+        position: relative;
+        margin-top: 10px;
+        right: -125px;
+    }
+    .idiomaimg {
+        width: 30px;
+        height: 30px;
+    }
+    .idioma {
+        font-size: 14px;
+    }
+    #canais {
+        left: 155px;
+    }
+    .canais {
+        font-size: 14px;
+    }
+    #ondulacao_verde {
+        margin-top: -245px;
+    }
+    .busq {
+        font-size: 14px;
+    }
+}

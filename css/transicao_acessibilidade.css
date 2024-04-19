@@ -1,5 +1,4 @@
 #circulo4 {
-
     display: none;
     position: absolute;
     margin-top: 33px;
@@ -7,37 +6,29 @@
     width: 50px;
     height: 50px;
     border: 2px solid green;
-
-
 }
 
 .x7 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 23px;
-
     transform: rotate(35deg);
 }
 
 .x8 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 23px;
-
     transform: rotate(145deg);
 }
 
@@ -48,7 +39,6 @@
     top: 182px;
     font-weight: medium;
     width: 200px;
-
 }
 
 #pesquisa1 {
@@ -61,26 +51,14 @@
     left: 50px;
     width: 80vw;
     height: 35px;
-
-
-
 }
 
 .pesq32 {
-
-
-
     height: 10px;
 }
 
 #pesquisa1:focus {
-
     outline: none;
-
-
-
-
-
 }
 
 .icone1.lupa1 {
@@ -99,21 +77,13 @@
     width: 8px;
     height: 2px;
     background-color: green;
-
     display: block;
     content: "";
     top: 10%;
     left: 50%;
-
     transform: rotate(45deg);
     transform-origin: -10px 15px;
-
 }
-
-
-
-
-
 
 .ad1 {
     background-color: #F8F8F8;
@@ -123,15 +93,9 @@
     z-index: 4;
     transition: height .6s ease;
     bottom: 0;
-
-
-
 }
 
-
-
 #circulo1 {
-
     position: absolute;
     left: 250px;
     margin-top: 33px;
@@ -143,7 +107,6 @@
 }
 
 .c2 {
-
     position: absolute;
     left: 180px;
     margin-top: 33px;
@@ -155,70 +118,54 @@
 }
 
 .x1 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 23px;
-
     transform: rotate(35deg);
 }
 
 .x2 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 23px;
-
     transform: rotate(145deg);
 }
 
 .x3 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 23px;
-
     transform: rotate(35deg);
 }
 
 .x4 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 23px;
-
     transform: rotate(145deg);
 }
 
-
-
-
 .c3 {
-
     position: absolute;
     left: 175px;
     margin-top: 33px;
@@ -229,10 +176,7 @@
     display: none;
 }
 
-
-
 .confiar {
-
     position: absolute;
     left: 35px;
     margin-top: 33px;
@@ -241,49 +185,37 @@
     height: 60px;
     top: -10px;
     background: #178864;
-
-
 }
 
 .confiaman {
-
-
     position: absolute;
     right: 14px;
     top: 16px;
-
 }
 
 .x5 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 24px;
-
     transform: rotate(35deg);
 }
 
 .x6 {
-
     position: absolute;
     width: 2px;
     height: 24px;
     background-color: green;
-
     display: block;
     content: "";
     top: 30%;
     left: 24px;
-
     transform: rotate(145deg);
 }
-
 
 .textCanal {
     display: none;
@@ -292,51 +224,39 @@
     top: 182px;
     font-weight: medium;
     width: 200px;
-
 }
 
 .textCanal2 {
-
     position: absolute;
     top: 70px;
     font-weight: medium;
     width: 20px;
     left: 0px;
-
 }
 
 .textCanal3 {
-
     position: absolute;
     top: 70px;
     font-weight: medium;
     width: 70px;
     left: -10px;
-
 }
 
 .textCanal4 {
-
     position: absolute;
     top: 70px;
     font-weight: medium;
     width: 150px;
     left: -10px;
-
 }
 
 .textCanal5 {
-
     position: absolute;
     top: 70px;
     font-weight: medium;
     width: 50px;
     left: 0px;
-
 }
-
-
-
 
 .d1 {
     display: none;
@@ -348,10 +268,7 @@
     margin-top: 250px;
     width: 140px;
     height: 140px;
-
-
 }
-
 
 .d2 {
     display: none;
@@ -363,8 +280,6 @@
     margin-top: 430px;
     width: 140px;
     height: 140px;
-
-
 }
 
 .d3 {
@@ -377,8 +292,6 @@
     margin-top: 250px;
     width: 140px;
     height: 140px;
-
-
 }
 
 .d4 {
@@ -391,23 +304,15 @@
     margin-top: 430px;
     width: 140px;
     height: 140px;
-
 }
-
-
-
-
 
 .divs {
     width: 100px;
     height: 100px;
-
     position: absolute;
     left: 100px;
     display: none;
 }
-
-
 
 .autoContra {
     background-color: #ECECEC;
@@ -429,13 +334,9 @@
     height: 35px;
     border: 2px solid #178864;
     background: #178864;
-
-
 }
 
 .desenhe2 {
-
-
     position: absolute;
     left: 3px;
     margin-top: 3px;
@@ -443,46 +344,32 @@
     width: 25px;
     height: 25px;
     border: 2px solid white;
-
-
-
 }
 
 .desenhe3 {
-
     position: absolute;
     left: 7.4px;
     margin-top: 7.2px;
     border-radius: 50px 0px 0px 50px;
     width: 11px;
     height: 20px;
-
     background: white;
-
 }
 
 
 #btn1 {
-
-
     position: absolute;
     left: 55px;
     margin-top: 30px;
-
 }
 
 #btn2 {
-
-
     position: absolute;
     left: 55px;
     margin-top: 30px;
-
 }
 
-
 #textcelacess {
-
     position: absolute;
     left: 230px;
     top: 90px;
@@ -490,12 +377,9 @@
     display: none;
 }
 
-
 .divs1 {
-
     position: absolute;
     left: 0px;
-
 }
 
 #textcelcontra {
@@ -506,7 +390,6 @@
 }
 
 .letras {
-
     color: #ECECEC;
     position: absolute;
     top: -30px;
@@ -515,7 +398,6 @@
 }
 
 .letras1 {
-
     color: #ECECEC;
     position: absolute;
     top: -8px;
@@ -534,8 +416,6 @@
     height: 130px;
 }
 
-
-
 .autoLetra {
     background-color: #ECECEC;
     border-style: inherit;
@@ -546,8 +426,6 @@
     width: 250px;
     height: 130px;
 }
-
-
 
 #palito {
     position: relative;
@@ -572,14 +450,9 @@ input[type='checkbox'] {
 }
 
 .cagf {
-
     position: absolute;
     top: 30px;
     left: 20px;
-
-
-
-
 }
 
 span {
@@ -592,12 +465,10 @@ span {
     left: 20px;
     cursor: pointer;
     transition: 0.5s;
-
 }
 
 
 .bolinhas::after {
-
     content: "";
     width: 20px;
     height: 20px;
@@ -607,9 +478,7 @@ span {
     top: 0px;
     left: 0px;
     transition: 0.5s;
-
 }
-
 
 span::after {
     content: "";
@@ -633,7 +502,6 @@ input:checked+span:after {
     z-index: 2;
     margin-top: 3px;
     left: 200px;
-
 }
 
 #a22 {
@@ -641,11 +509,9 @@ input:checked+span:after {
     left: 50px;
     z-index: 2;
     margin-top: 3px;
-
 }
 
 .mundi {
-
     position: absolute;
     left: 130px;
     margin-top: -40px;
@@ -694,560 +560,284 @@ input:checked+.label:after {
 }
 
 .textIdioma {
-
     position: absolute;
     left: 185px;
     top: 102px;
     font-weight: medium;
     display: none;
-
 }
 
 .textIdioma2 {
-
     position: absolute;
     left: 85px;
     top: 35px;
     font-weight: medium;
     width: 200px;
     display: none;
-
-
 }
 
 .btn12 {
-
     height: 30px;
     width: 3300px;
     display: none;
 }
 
-
 @media screen and (max-width:551px) {
-
     .confiar {
-
-        position: absolute;
+        /* position: absolute; */
         left: 40px;
-       
-    
-    
     }
     
-
-
     .confiaman{
-
-
-        position: absolute;
-        
+        /* position: absolute; */
         top: 18px;
-    
-
     }
-
- 
-
-
-
 
     .c4 {
-
         position: absolute;
         left: 245px;
-
     }
 
-  
     .c3 {
-
         position: absolute;
         left: 255px;
-
     }
 
-  
-
-
-
     .textCanal {
-        display: none;
-        position: absolute;
         left: 220px;
-        top: 182px;
-        font-weight: medium;
-        width: 200px;
-
     }
 
     .d1 {
-        
         position: absolute;
         left: 350px;
-      
-       
-
     }
 
-
     .d2 {
-       
-        position: absolute;
         left: 350px;
-      
-
-
     }
 
     .d3 {
-      
-        position: absolute;
         left: 100px;
-      
-
-
     }
 
     .d4 {
- 
-        position: absolute;
         left: 100px;
-      
-
     }
-
 
     .c2 {
-
-
-
-        position: absolute;
         left: 250px;
-
     }
-
-
 
     .linguis {
         position: absolute;
         left: 120px;
-       
     }
 
     .textIdioma {
-
         position: absolute;
         left: 255px;
-     
-      
-
     }
-
-
-    
-
-
- 
 }
 
 @media screen and (max-width:524px) {
-
-
-
     .c3 {
-
         position: absolute;
         left: 240px;
-
     }
 
     .textCanal {
-
-        position: absolute;
         left: 210px;
-
     }
 
     .divs1 {
-
         position: absolute;
         left: -30px;
-
     }
 
-
-
     .c4 {
-
         position: absolute;
         left: 232px;
-
     }
 
     .textPesq {
-
-        position: absolute;
         left: 200px;
-        top: 182px;
-        font-weight: medium;
-        width: 200px;
-
     }
 
     .c2 {
-
-
-
-        position: absolute;
         left: 240px;
-
     }
 
     .textIdioma {
-
         position: absolute;
         left: 245px;
-
     }
 
-
     .linguis {
-
-
         position: absolute;
         left: 105px;
-
     }
 }
 
 @media screen and (max-width:500px) {
 
-
-
-
-
-
     .c3 {
-
         position: absolute;
         left: 230px;
-
     }
 
     .textCanal {
-
-        position: absolute;
         left: 200px;
-
     }
 
-   
-
     .c2 {
-
-
-
-        position: absolute;
         left: 230px;
-
     }
 
     .textIdioma {
-
         position: absolute;
         left: 235px;
-
     }
-
 
     .linguis {
-
-
         position: absolute;
         left: 100px;
-
     }
-
 
     .c4 {
-
         position: absolute;
         left: 226px;
-
     }
-
-  
-
 }
 
 @media screen and (max-width:476px) {
 
-
-
-   
-
     .c3 {
-
         position: absolute;
         left: 210px;
-
     }
 
     .textCanal {
-
-        position: absolute;
         left: 180px;
-
     }
 
     .divs1 {
-
         position: absolute;
         left: -50px;
-
     }
 
     .c2 {
-
-
-
-        position: absolute;
         left: 220px;
-
     }
 
     .textIdioma {
-
         position: absolute;
         left: 225px;
-
     }
 
 
     .linguis {
-
-
         position: absolute;
         left: 90px;
-
     }
 
-
-
-
     .c4 {
-
         position: absolute;
         left: 216px;
-
     }
 
     .textPesq {
-
-        position: absolute;
         left: 185px;
-        top: 182px;
-        font-weight: medium;
-        width: 200px;
-
     }
-
 
     .autoLinguagem {
-        background-color: #ECECEC;
-        border-style: inherit;
-        border-radius: 10px;
-        position: absolute;
         left: 20px;
-        margin-top: 360px;
-        width: 250px;
-        height: 130px;
     }
-
-
 
    .autoLetra {
-
-        position: absolute;
-        left: 20px;
-       
-        
+        left: 20px;        
     }
 
-
     .autoContra {
-        background-color: #ECECEC;
-        border-style: inherit;
-        border-radius: 10px;
-        position: absolute;
         left: 20px;
-        margin-top: 160px;
-        width: 250px;
-        height: 130px;
     }
 
     #circulo1 {
-
-        position: absolute;
         left: 216px;
-      
-     
-
     }
-
 
     #textcelacess {
-
-        position: absolute;
         left: 195px;
-     
     }
-
-
-
 }
 
 
 @media screen and (max-width:444px) {
 
-
-
     .confiar {
-
-        position: absolute;
-        left: 30px;
-       
-    
-    
+        left: 30px;    
     }
-    
-
-
-   
-
-
-   
+	
     .textCanal {
-
-        position: absolute;
         left: 175px;
-
     }
 
     .divs1 {
-
         position: absolute;
         left: -60px;
-
     }
 
     .c2 {
-
-
-
-        position: absolute;
         left: 200px;
-
     }
 
     .textIdioma {
-
         position: absolute;
         left: 205px;
-
     }
 
-
     .linguis {
-
-
         position: absolute;
         left: 70px;
-
     }
 
     .c4 {
-
         position: absolute;
         left: 196px;
-
     }
 
     .textPesq {
-
-        position: absolute;
         left: 175px;
-        top: 182px;
-        font-weight: medium;
-        width: 200px;
-
     }
-
 
     .autoLinguagem {
-        background-color: #ECECEC;
-        border-style: inherit;
-        border-radius: 10px;
-        position: absolute;
         left: -12px;
-        margin-top: 360px;
-        width: 250px;
-        height: 130px;
     }
-
-
 
     .autoLetra {
-      
-        position: absolute;
         left: -12px;
-       
     }
 
-
     .autoContra {
-        background-color: #ECECEC;
-        border-style: inherit;
-        border-radius: 10px;
-        position: absolute;
         left: -12px;
-        margin-top: 160px;
-        width: 250px;
-        height: 130px;
     }
 
     #circulo1 {
-
-        position: absolute;
         left: 180px;
-       
-
     }
-
 
     #textcelacess {
-
-        position: absolute;
         left: 160px;
-       
     }
 
-  
-
-
-.textCanal2{
-
-    position: absolute;
+	.textCanal2{
     right: 25px;
     top: 55px;
-
-}
+	}
+	
     .textCanal5{
-
         font-size: 15px;
         top: 55px;
         left: -15px;
-
     }
 
     .textCanal3{
@@ -1262,204 +852,95 @@ input:checked+.label:after {
         left: -15px;
     }
     .d3 {
-       
-        position: absolute;
         left: 130px;
-       
-    
     }
     
     .d4 {
-        
-        position: absolute;
         left: 130px;
-       ;
     }
-
 }
-
 
 @media screen and (max-width:400px) {
 
-
-
-
     .c3 {
-
         position: absolute;
         left: 180px;
-
     }
+	
     .textCanal {
-
-        position: absolute;
         left: 145px;
-
     }
-
 
     .d1 {
-
-        background-color: #ffffff;
-        border-style: inherit;
-        border-radius: 10px;
-        position: absolute;
         left: 290px;
-        margin-top: 250px;
         width: 120px;
         height: 120px;
-    
-    
     }
     
     .d2 {
-        
-        position: absolute;
         left: 290px;
-       
     }
-
-    
-    
- 
-    
-
-
-   
-
+	
     .c2 {
-
-
-
-        position: absolute;
         left: 180px;
-
     }
 
     .textIdioma {
-
         position: absolute;
         left: 185px;
-
     }
-
 
     .linguis {
-
-
         position: absolute;
         left: 50px;
-
     }
 
-
     .c4 {
-
         position: absolute;
         left: 186px;
-
     }
 
     .textPesq {
-
-        position: absolute;
         left: 155px;
-        top: 182px;
-        font-weight: medium;
-        width: 200px;
-
     }
 }
 
-
 @media screen and (max-width:380px) {
-
-
-
-
-    
     .c2 {
-
-
-
-        position: absolute;
         left: 160px;
-
     }
 
     .textIdioma {
-
         position: absolute;
         left: 165px;
-
     }
 
-
     .linguis {
-
-
         position: absolute;
         left: 30px;
-
     }
 
     .c4 {
-
         position: absolute;
         left: 176px;
-
     }
 
     .textPesq {
-
-        position: absolute;
         left: 140px;
-        top: 182px;
-        font-weight: medium;
-        width: 200px;
-
     }
 }
+
 @media screen and (max-width:370px) {
-
-
-
     .c3 {
-
         position: absolute;
         left: 170px;
-
     }
    
-
     .d1 {
-
-        background-color: #ffffff;
-        border-style: inherit;
-        border-radius: 10px;
-        position: absolute;
         left: 280px;
-        margin-top: 250px;
-        width: 120px;
-        height: 120px;
-    
-    
     }
     
     .d2 {
-       
-        position: absolute;
         left: 280px;
-    
     }
-
-   
-    
-   
-    
-    
-
-
-    
-
 }

@@ -1,190 +1,65 @@
-
-
-#retangulo {
-    top: 0%;
-    position: absolute;
-}
-
-
-
 .corpo {
     filter: grayscale(100%);
 }
 
 .letra {
-
     font-size: 100px;
-
 }
 @media screen and (max-width:1640px) {
-
-    body {
-        background-size: contain;
-
-    }
-
-
-
     #verde2 {
          margin-top: 166px;
         height: 500px;
         width: 100%;
-       
-
     }
 
     footer {
-
         height: 100px;
-
     }
 }
 
 @media screen and (max-width:1535px) {
-    body {
-        background-size: contain;
-
-    }
-
-#verde2 {
+	#verde2 {
     margin-top: 88px;
     height: 550px;
-    width: 100%;
-   
-
+	}
 }
 
-
-}
 @media screen and (max-width:1423px) {
-    body {
-        background-size: contain;
-
-    }
-
-#verde2 {
+	#verde2 {
     margin-top: 20px;
-    height: 550px;
-    width: 100%;
-   
-
+	}
 }
-
-
-}
-
 
 @media screen and (max-width:1337px) {
-    body {
-        background-size: contain;
-
-    }
-
-#vector {
+	#ondulacao_verde {
     height: 550px;
     width: 100%;
     margin-top: -20px;
-
+	}
 }
-
-
-
-
-
-}
-
 
 @media screen and (max-width:1300px) {
-
-
-
-    #vector {
+    #ondulacao_verde {
         height: 600px;
-        width: 100%;
         margin-top: -80px;
-
     }
-
-
-  
-
-
-    #tres_linhas {
-        width: 60px;
-    }
-
-
-
-    #retangulo {
-        width: 600px;
-
-    }
-
-    #petrobras {
-        width: 395px;
-
-
-    }
-
    
-
- 
-  
-
-    body {
-
-        background-size: contain;
-
-    }
-
     #verde2 {
-
         margin-top: 130px;
-
-    }
-
-    .main-content {
-
-        display: flex;
-        justify-content: center;
-        margin-top: 100px;
-        margin: none;
     }
 }
 
 @media screen and (max-width:1143px) {
 
-
-
     #verde2 {
         height: 600px;
         width: 100%;
         margin-top: 80px;
-
     }
-   
-  
-    body {
-
-        background-size: contain;
-
-    }
-
-
-  
 }
 
 @media screen and (max-width:1089px) {
-
-
-    #rolin {
-
-        width: 40px;
-        height: 110px;
-
-    }
-
-    #vector {
+    #ondulacao_verde {
         margin-top: -70px;
         height: 420px;
     }
@@ -192,384 +67,65 @@
 
 
 @media screen and (max-width:1050px) {
-
     #verde2 {
-
         background-size: cover;
-
-
     }
-
- 
-
-    #tres_linhas {
-        width: 50px;
-        margin-top: -12px;
-    }
-
-
-
-    #retangulo {
-        width: 460px;
-
-    }
-
-    #petrobras {
-        width: 270px;
-        left: -50px;
-        margin-top: -10px;
-
-    }
-
-   
-    
 
     .letra {
-
         font-size: 70px;
-
     }
-
-    #rolin {
-
-        margin-top: -50px;
-        width: 40px;
-        height: 110px;
-    }
-
 }
 
 
 @media screen and (max-width:986px) {
-
-    #rolin {
-
-        display: flex;
-        justify-content: center;
-        margin-top: -100px;
-        height: 120px;
-
-
-    }
-
-   
-
-
-    #tres_linhas {
-        width: 50px;
-        margin-top: -14px;
-    }
-
-
-
-    #retangulo {
-        width: 400px;
-
-    }
-
-   
-
-
     .letra {
-
         font-size: 50px;
-
     }
-
-   
-
-
 }
 
-
-
-
 @media screen and (max-width:929px) {
-
-   
-
-    #tres_linhas {
-        width: 40px;
-        height: 40px;
-        margin-top: -14px;
-    }
-
-
-
-    #retangulo {
-        width: 380px;
-
-    }
-
-    #petrobras {
-        width: 250px;
-        left: -50px;
-        margin-top: -10px;
-
-    }
-
- 
-
-   
-
-
-
-    h2 {
-        display: flex;
-        
-        font-size: 40px;
-
-    }
-
     header {
-
         height: 450px;
     }
 }
 
 
 @media screen and (max-width:857px) {
-
-
-    #rolin {
-
-        display: flex;
-        justify-content: center;
-        margin-top: -160px;
-        height: 110px;
-
-
-    }
-
-  
-
     #verde2 {
-
-
         margin-top: 90px;
-
     }
-
-
- 
-
-
-    #tres_linhas {
-        width: 30px;
-        margin-top: -30px;
-        height: 30px;
-    }
-
-
-
-    #retangulo {
-        width: 360px;
-
-    }
-
-    #petrobras {
-        width: 210px;
-        left: -50px;
-        margin-top: -12px;
-
-    }
-
-  
-
- 
-
-
 }
 @media screen and (max-width:817px) {
 
-
-    
-
-   
-
     #verde2 {
-
-
         margin-top: 20px;
-
     }
-
-
- 
 }
 
-
 @media screen and (max-width:771px) {
-
     header {
-
         height: 400px;
-
-
     }
-
-
-    #rolin {
-
-
-        margin-top: -140px;
-
-    }
-
-
 
     #verde2 {
-
-
         margin-top: 60px;
-
     }
-
-    #tres_linhas {
-        height: 20px;
-        height: 30px;
-        top: 30px;
-    }
-
-    #retangulo {
-        height: 80px;
-        width: 302px;
-    }
-
-    #petrobras {
-        top: -5px;
-        width: 180px;
-    }
-
-
-  
-
-  
-
 }
 
 @media screen and (max-width:715px) {
-
-    #tres_linhas {
-        height: 10px;
-        height: 30px;
-        top: 30px;
-    }
-
-    #retangulo {
-        height: 80px;
-        width: 272px;
-    }
-
-    #petrobras {
-        top: -5px;
-        width: 170px;
-    }
-
-
-
-   
-
-   
-   
-
-    #rolin {
-
-
-        margin-top: -180px;
-
-    }
-
-
-
     #verde2 {
-
-
         margin-top: 54px;
-
     }
 
 }
 @media screen and (max-width:695px) {
-
-   
-   
-
-
-    #vector {
-
-
+    #ondulacao_verde {
         margin-top: -124px;
-
     }
-
 }
 @media screen and (max-width:629px) {
-
-   
-
-    #tres_linhas {
-        height: 10px;
-        height: 30px;
-        top: 20px;
-    }
-
-    #retangulo {
-        height: 60px;
-        width: 222px;
-    }
-
-    #petrobras {
-        top: -10px;
-        left: -70px;
-        width: 150px;
-    }
-
-
-
- 
-
-   
-
-   
-
-    #rolin {
-
-        width: 30px;
-        height: 90px;
-        margin-top: -220px;
-
-    }
-
-
-
     #verde2 {
-
         image-resolution:inherit;
         margin-top: 10px;
-
     }
-
-
-
-
-    
-}
-@media screen and (max-width:590px) {
-
-   
-
-    #pesquisa {
-
-        height: 15px;
-
-    }
-
-
-
-   
-
-
-
- 
 }
